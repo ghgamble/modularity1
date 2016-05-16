@@ -1,0 +1,68 @@
+/* ADD YOUR STYLES HERE */
+table {
+    width: 100%;
+}
+
+.names td {
+    padding: 10px 0px;
+}
+
+.names-2 td {
+    padding: 10px 0px;
+}
+
+.exercise-1 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.exercise-2 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+th {
+    padding: 10px 0px;
+}
+
+#stats {
+    width: 30%;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+
+.prominent {
+    font-size: 35px;
+    font-weight: bolder;
+}
+.stat-text {
+    color: gray;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.bar {
+    text-align: left;
+    height: 18px;
+}
+
+.percentage {
+    background-color: #599ede;
+    color: white;
+    height: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.type {
+    width: 15%;
+    text-align: right;
+    padding: 0px;
+    font-size: 16px;
+    height: 18px;
+}
+
+
+
